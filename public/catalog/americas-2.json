@@ -1,0 +1,14 @@
+[
+  { "name": "Miami", "lat": 25.7617, "lon": -80.1918, "country": "US", "state": "FL" },
+  { "name": "Houston", "lat": 29.7604, "lon": -95.3698, "country": "US", "state": "TX" },
+  { "name": "Seattle", "lat": 47.6062, "lon": -122.3321, "country": "US", "state": "WA" },
+  { "name": "San Francisco", "lat": 37.7749, "lon": -122.4194, "country": "US", "state": "CA" },
+  { "name": "Denver", "lat": 39.7392, "lon": -104.9903, "country": "US", "state": "CO" },
+  { "name": "Monterrey", "lat": 25.6866, "lon": -100.3161, "country": "MX" },
+  { "name": "Guadalajara", "lat": 20.6597, "lon": -103.3496, "country": "MX" },
+  { "name": "Medellín", "lat": 6.2442, "lon": -75.5812, "country": "CO" },
+  { "name": "Cali", "lat": 3.4516, "lon": -76.532, "country": "CO" },
+  { "name": "Rio de Janeiro", "lat": -22.9068, "lon": -43.1729, "country": "BR" }
+]
+
+

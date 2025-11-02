@@ -1,0 +1,14 @@
+[
+  { "name": "Gold Coast", "lat": -28.0167, "lon": 153.4, "country": "AU" },
+  { "name": "Hobart", "lat": -42.8821, "lon": 147.3272, "country": "AU" },
+  { "name": "Townsville", "lat": -19.2589, "lon": 146.8169, "country": "AU" },
+  { "name": "Cairns", "lat": -16.9186, "lon": 145.7781, "country": "AU" },
+  { "name": "Newcastle", "lat": -32.9283, "lon": 151.7817, "country": "AU" },
+  { "name": "Dunedin", "lat": -45.8788, "lon": 170.5028, "country": "NZ" },
+  { "name": "Hamilton", "lat": -37.787, "lon": 175.2793, "country": "NZ" },
+  { "name": "Tauranga", "lat": -37.6878, "lon": 176.1651, "country": "NZ" },
+  { "name": "Rotorua", "lat": -38.1368, "lon": 176.2497, "country": "NZ" },
+  { "name": "Palmerston North", "lat": -40.3523, "lon": 175.6082, "country": "NZ" }
+]
+
+

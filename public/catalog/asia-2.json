@@ -1,0 +1,14 @@
+[
+  { "name": "Seoul", "lat": 37.5665, "lon": 126.978, "country": "KR" },
+  { "name": "Busan", "lat": 35.1796, "lon": 129.0756, "country": "KR" },
+  { "name": "Shenzhen", "lat": 22.5431, "lon": 114.0579, "country": "CN" },
+  { "name": "Guangzhou", "lat": 23.1291, "lon": 113.2644, "country": "CN" },
+  { "name": "Hanoi", "lat": 21.0278, "lon": 105.8342, "country": "VN" },
+  { "name": "Ho Chi Minh", "lat": 10.8231, "lon": 106.6297, "country": "VN" },
+  { "name": "Manila", "lat": 14.5995, "lon": 120.9842, "country": "PH" },
+  { "name": "Jakarta", "lat": -6.2088, "lon": 106.8456, "country": "ID" },
+  { "name": "Kuala Lumpur", "lat": 3.139, "lon": 101.6869, "country": "MY" },
+  { "name": "Taipei", "lat": 25.033, "lon": 121.5654, "country": "TW" }
+]
+
+

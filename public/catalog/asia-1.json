@@ -1,0 +1,14 @@
+[
+  { "name": "Tokyo", "lat": 35.6762, "lon": 139.6503, "country": "JP" },
+  { "name": "Seúl", "lat": 37.5665, "lon": 126.978, "country": "KR" },
+  { "name": "Hong Kong", "lat": 22.3193, "lon": 114.1694, "country": "HK" },
+  { "name": "Singapur", "lat": 1.3521, "lon": 103.8198, "country": "SG" },
+  { "name": "Bangkok", "lat": 13.7563, "lon": 100.5018, "country": "TH" },
+  { "name": "Jakarta", "lat": -6.2088, "lon": 106.8456, "country": "ID" },
+  { "name": "Mumbai", "lat": 19.076, "lon": 72.8777, "country": "IN" },
+  { "name": "Nueva Delhi", "lat": 28.6139, "lon": 77.209, "country": "IN" },
+  { "name": "Taipéi", "lat": 25.033, "lon": 121.5654, "country": "TW" },
+  { "name": "Kuala Lumpur", "lat": 3.139, "lon": 101.6869, "country": "MY" }
+]
+
+

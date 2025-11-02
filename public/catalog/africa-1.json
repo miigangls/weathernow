@@ -1,0 +1,14 @@
+[
+  { "name": "Lagos", "lat": 6.5244, "lon": 3.3792, "country": "NG" },
+  { "name": "Johannesburgo", "lat": -26.2041, "lon": 28.0473, "country": "ZA" },
+  { "name": "Nairobi", "lat": -1.2864, "lon": 36.8172, "country": "KE" },
+  { "name": "El Cairo", "lat": 30.0444, "lon": 31.2357, "country": "EG" },
+  { "name": "Casablanca", "lat": 33.5731, "lon": -7.5898, "country": "MA" },
+  { "name": "Marrakech", "lat": 31.6295, "lon": -7.9811, "country": "MA" },
+  { "name": "Ciudad del Cabo", "lat": -33.9249, "lon": 18.4241, "country": "ZA" },
+  { "name": "Durban", "lat": -29.8587, "lon": 31.0218, "country": "ZA" },
+  { "name": "Luanda", "lat": -8.839, "lon": 13.2894, "country": "AO" },
+  { "name": "Addis Abeba", "lat": 8.9806, "lon": 38.7578, "country": "ET" }
+]
+
+

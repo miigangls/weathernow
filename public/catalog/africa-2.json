@@ -1,0 +1,14 @@
+[
+  { "name": "Abiyán", "lat": 5.3453, "lon": -4.0244, "country": "CI" },
+  { "name": "Dakar", "lat": 14.7167, "lon": -17.4677, "country": "SN" },
+  { "name": "Accra", "lat": 5.6037, "lon": -0.187, "country": "GH" },
+  { "name": "Túnez", "lat": 36.8065, "lon": 10.1815, "country": "TN" },
+  { "name": "Trípoli", "lat": 32.8872, "lon": 13.1913, "country": "LY" },
+  { "name": "Alejandría", "lat": 31.2001, "lon": 29.9187, "country": "EG" },
+  { "name": "Luanda", "lat": -8.839, "lon": 13.2894, "country": "AO" },
+  { "name": "Maputo", "lat": -25.9692, "lon": 32.5732, "country": "MZ" },
+  { "name": "Harare", "lat": -17.8292, "lon": 31.0522, "country": "ZW" },
+  { "name": "Ciudad del Cabo", "lat": -33.9249, "lon": 18.4241, "country": "ZA" }
+]
+
+

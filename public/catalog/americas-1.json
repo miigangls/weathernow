@@ -1,0 +1,14 @@
+[
+  { "name": "New York", "lat": 40.7128, "lon": -74.006, "country": "US", "state": "NY" },
+  { "name": "Los Angeles", "lat": 34.0522, "lon": -118.2437, "country": "US", "state": "CA" },
+  { "name": "Chicago", "lat": 41.8781, "lon": -87.6298, "country": "US", "state": "IL" },
+  { "name": "Toronto", "lat": 43.6532, "lon": -79.3832, "country": "CA" },
+  { "name": "Vancouver", "lat": 49.2827, "lon": -123.1207, "country": "CA" },
+  { "name": "Ciudad de México", "lat": 19.4326, "lon": -99.1332, "country": "MX" },
+  { "name": "Bogotá", "lat": 4.711, "lon": -74.0721, "country": "CO" },
+  { "name": "Buenos Aires", "lat": -34.6037, "lon": -58.3816, "country": "AR" },
+  { "name": "Santiago", "lat": -33.4489, "lon": -70.6693, "country": "CL" },
+  { "name": "Lima", "lat": -12.0464, "lon": -77.0428, "country": "PE" }
+]
+
+
